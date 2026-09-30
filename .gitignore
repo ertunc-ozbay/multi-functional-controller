@@ -1,0 +1,18 @@
+# Compiled Object files and Binaries
+*.o
+*.elf
+*.hex
+*.bin
+*.map
+*.out
+
+# Build folders
+build/
+bin/
+
+# VS Code local workspace settings
+.vscode/
+
+# Arch Linux / System files
+*~
+.directory
