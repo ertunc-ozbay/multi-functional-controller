@@ -13,14 +13,14 @@ A custom handheld controller that built for both gaming and conrolling RC device
 
 ## COMPONENTS
 
-- High performance ESP32-S3-N16R8 microcontroller
-- Affordable NRF24L01+ radio module for short comminications(Will be changed in future)
+* High performance ESP32-S3-N16R8 microcontroller
+* Affordable NRF24L01+ radio module for short comminications(will be changed in future)
 * 1 Rotary Encoder
 * 1 100 microfarad electrolytic capacitor
 * Male and female headers
 * 6x9 cm perfboard
 
----**Some of them could be changed due to various reasons in the future**----
+* ---**Some of them could be changed due to various reasons in the future**----
 
 
 
